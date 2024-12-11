@@ -34,7 +34,7 @@ const Footer = () => {
         <div className="footer-content-right">
             <h2>GET IN TOUCH</h2>
             <ul>
-                <li>+91 8660793018</li>
+                <li>+91 999999999</li>
                 <li>contact@foodmunch.com</li>
                 <li>No.1, local, city, state,India<br/>-pincode</li>
             </ul>
