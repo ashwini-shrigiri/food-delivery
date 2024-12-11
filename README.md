@@ -68,7 +68,7 @@ It has an admin panel where we can track order, add / update new food items, and
 
 
 ```
-https://food-delivery-frontend-l9po.onrender.com/
+href="https://food-delivery-frontend-qhra.onrender.com
 ```
 
 <a href="https://food-delivery-frontend-qhra.onrender.com">
