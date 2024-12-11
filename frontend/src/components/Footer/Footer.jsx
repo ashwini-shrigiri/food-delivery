@@ -13,7 +13,7 @@ const Footer = () => {
                 <img src={assets.facebook_icon} alt="facebook" />
                 <img src={assets.twitter_icon} alt="twitter" />
                 <a
-                href="https://www.linkedin.com/in/joseph-mathew-aikara"
+                href="https://www.linkedin.com/in/ashwini-s"
                 target="_blank"
                 class="tooltip-icon"
                 rel='noreferrer'
@@ -34,7 +34,7 @@ const Footer = () => {
         <div className="footer-content-right">
             <h2>GET IN TOUCH</h2>
             <ul>
-                <li>+91 9645881397</li>
+                <li>+91 8660793018</li>
                 <li>contact@foodmunch.com</li>
                 <li>No.1, local, city, state,India<br/>-pincode</li>
             </ul>
