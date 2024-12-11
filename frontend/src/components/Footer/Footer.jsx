@@ -13,7 +13,7 @@ const Footer = () => {
                 <img src={assets.facebook_icon} alt="facebook" />
                 <img src={assets.twitter_icon} alt="twitter" />
                 <a
-                href="https://www.linkedin.com/in/ashwini-s"
+                href="https://www.linkedin.com/in/ashwini-s-a59249307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                 target="_blank"
                 class="tooltip-icon"
                 rel='noreferrer'
